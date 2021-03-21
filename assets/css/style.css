@@ -1033,7 +1033,7 @@ section {
 
 .pricing h3 {
   font-weight: 400;
-  margin: -20px -20px 20px -20px;
+  margin: auto;
   padding: 20px 15px;
   font-size: 16px;
   font-weight: 600;
@@ -1086,7 +1086,7 @@ section {
 }
 
 .pricing .btn-wrap {
-  margin: 20px -20px -20px -20px;
+  margin: auto;
   padding: 20px 15px;
   background: #f8f8f8;
   text-align: center;
